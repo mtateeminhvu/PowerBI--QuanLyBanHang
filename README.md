@@ -26,7 +26,7 @@ This project provides a sales management system with data collected in January, 
 Installation
 ```javascript 
 git clone https://github.com/mtateeminhvu/PowerBI-QuanLyBanHang.git  
-cd sales-management  
+
 ```
 
 ## Demo

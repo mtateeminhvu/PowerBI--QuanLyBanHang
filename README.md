@@ -1,8 +1,29 @@
-# account-statement
 
-# Project: Account Statement of MAT TRAN TO QUOC VN - BAN CUU TRO TW Vietcombank supports storm victims of typhoon Yagi
-## Overview
-This project extracts transaction data from a PDF file, converts it into a structured CSV format, and reads the data for analysis or search purposes. The script handles transactions with specific data patterns, saves them as CSV, and provides a way to search through the parsed data.
+# Project: Sales Management - January
+## Introduction
+This project provides a sales management system with data collected in January, covering detailed information about nearly 6,000 stores nationwide across 63 provinces in Vietnam.
+## Objectives
+- Analyze sales data to support business decision-making.
+- Efficiently manage store information for easy access.
+- Generate reports based on provinces, cities, and regions.
+## Key Features
+1. Store Information Management:
+- Includes name, address, store ID, and region.
+2. Revenue Tracking:
+- Monthly revenue overview for each store.
+3. Data Analysis by Province:
+- Detailed sales reports for each area.
+
+## Project Structure
+```javascript 
+📂 sales-management  
+├── 📁 data               # Directory for January data  
+├── 📁 scripts            # Scripts for data processing and analysis  
+├── 📁 reports            # Generated reports  
+├── 📄 README.md          # Project documentation  
+└── 📄 requirements.txt   # Required libraries  
+```
+
 
 ### Features
 - Extracts transaction data from PDF files.

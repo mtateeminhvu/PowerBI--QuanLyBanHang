@@ -37,6 +37,6 @@ git clone https://github.com/mtateeminhvu/PowerBI-QuanLyBanHang.git
 </p>
 
 ## Contact
-Email: minhvvhcm@gmail.com
-Tel: +84 300 040 919
-If you find this project helpful, don’t forget to star this repository! 🌟
+- Email: minhvvhcm@gmail.com
+- Tel: +84 300 040 919
+- If you find this project helpful, don’t forget to star this repository! 🌟

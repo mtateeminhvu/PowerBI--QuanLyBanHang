@@ -30,33 +30,13 @@ git clone https://github.com/mtateeminhvu/PowerBI-QuanLyBanHang.git
 ```
 
 ## Demo
-### Display all transaction information
+### Overview
 
 <p align="center">
-  <img src="./Transaction List.jpg" >
+  <img src="./Overview.jpg" >
 </p>
 
-
-### Search for transaction information
-
-<p align="center">
-  <img src="./Search.jpg" >
-</p>
-
-### Statistics by day
-
-<p align="center">
-  <img src="./Statistics by day.jpg" >
-</p>
-
-### Some other features
-
-#### Find transaction information with the highest amount
-<p align="center">
-  <img src="./max.jpg" >
-</p>
-
-#### Find transaction information with the smallest amount
-<p align="center">
-  <img src="./min.jpg" >
-</p>
+## Contact
+Email: minhvvhcm@gmail.com
+Tel: +84 300 040 919
+If you find this project helpful, don’t forget to star this repository! 🌟
